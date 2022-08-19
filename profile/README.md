@@ -12,3 +12,5 @@ Djinn is a volumetrics-as-a-service platform that will provide easy access to a 
 👩‍💻 Useful Resources
 
 https://djinn.slite.com/api/s/note/Z7N1cN9SuNxf7HC-qgLh1c/Prototype-Technical-Specification-Document
+https://github.com/djinn-technologies/spatialscan3d.unity/tree/hydrogen-dev
+https://github.com/djinn-technologies/spatialscan3d.gui/tree/hydrogen-ui
